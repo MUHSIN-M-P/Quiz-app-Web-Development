@@ -1,0 +1,87 @@
+
+.result{
+    height: fit-content;
+    background-color: rgb(2, 2, 90);
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.result-card{
+    justify-items: center;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    height: 30vh;
+    width: 70%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: white;
+    margin: 1rem;
+    border-radius: 14px;
+}
+
+.text{
+    font-size: xx-large;
+    color: rgb(12, 207, 5);
+    font-weight: 500;
+    font-family: 'Poppins';
+}
+
+.circle{
+    border: solid 1rem rgb(188, 188, 188);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: Black;
+}
+
+.retry{
+    border: none;
+    border-radius: 50px;
+    width: 20%;
+    font-size: medium;
+    padding: .5rem;
+    margin: .4rem 0;
+    color: white;
+    background: linear-gradient(165deg, #0695f5,#ba75f6 70%);
+}
+
+.answers-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.answers-section h1{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 1rem;
+}
+
+.answers{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 1rem;
+    margin: 1rem;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+
+.answers p{
+    color: black;
+}
+
+#correct-answer{
+    color: green;
+}
