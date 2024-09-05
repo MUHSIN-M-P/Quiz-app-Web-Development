@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://muhsin-m-p.github.io/Quiz-app-Web-Development/">
-    QuizApp
+    Quizle App
   </a>
 </h1>
 
