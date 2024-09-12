@@ -5,5 +5,5 @@ export default defineStackbitConfig({
     "nodeVersion": "18",
     "ssgName": "custom",
     "contentSources": [],
-    "postInstallCommand": "npm i --no-save @stackbit/types"
+    "postInstallCommand": "npm i"
 })
