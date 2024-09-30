@@ -5,7 +5,7 @@
 </h1>
 
 <h3>Preview :</h3>
-<img src+="https://raw.githubusercontent.com/MUHSIN-M-P/Quiz-app-Web-Development/refs/heads/main/preview%20(2).png" / >
+<img src="https://raw.githubusercontent.com/MUHSIN-M-P/Quiz-app-Web-Development/refs/heads/main/preview%20(2).png" / >
 
 <p align="center">
   QuizleApp is a open-source quiz application that gives fully customized quizzes .
